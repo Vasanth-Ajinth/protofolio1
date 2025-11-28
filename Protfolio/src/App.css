@@ -1,0 +1,21 @@
+nav ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  background: #333;
+  padding: 10px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+div {
+  text-align: center;
+  padding: 50px;
+}
